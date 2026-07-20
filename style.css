@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    background: #fafafa;
+    text-align: center;
+}
+
+.post {
+    background:white;
+    width:320px;
+    margin:auto;
+    padding:20px;
+    border-radius:10px;
+}
+
+img {
+    width:300px;
+}
